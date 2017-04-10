@@ -3,7 +3,7 @@ Codigo curso: CSOF5101 - 2017.
 Nombre curso: CONCEPTOS AVANZADOS EN INGENIERIA DE SOFTWARE.
 Nombre de la tarea: Assignment Kit for Program 6.
 Fecha de envío de la tarea: 09 Abril 2017 (20:00), 
-		GithHub: 09 Abril 2017 (13:00), Heroku: 09 Abril 2017 (02:47)
+		GithHub: 09 Abril 2017 (21:00:00), Heroku: 09 Abril 2017 (21:25)
 Autor: Walter Javier Alonso Roa
 /************************************************************/
 
@@ -41,4 +41,4 @@ $git clone https://github.com/WalterAlonso/2_PSP2.1.git
 
 ** Heroku:
 
-	https://app-tamaniorelativo.herokuapp.com/
+	https://app-calculorangofinal.herokuapp.com/
