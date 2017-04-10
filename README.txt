@@ -30,7 +30,7 @@ $git clone https://github.com/WalterAlonso/2_PSP2.1.git
 
 ** Ejecute el programa:
 
-	java -cp target/Ecos_CalculoRangoFinal-1.0-SNAPSHOT.jar uniandes.ecos.conceptosAvanzados.calculoRangoFinal.controlador.CalculoRangoFinal "ArchivoCargaReglaSimpson.txt"
+	java -cp target/Ecos_CalculoRangoFinal-1.0-SNAPSHOT-jar-with-dependencies.jar uniandes.ecos.conceptosAvanzados.calculoRangoFinal.controlador.CalculoRangoFinal "ArchivoCargaReglaSimpson.txt"
 
 ** Documentacion del sitio
 
